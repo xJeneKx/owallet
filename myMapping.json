@@ -1,0 +1,32 @@
+{
+  "components": {
+    "Button": {
+      "meta": {},
+      "appearances": {
+        "outline": {
+          "mapping": {},
+          "variantGroups": {
+            "status": {
+              "primary": {
+                "backgroundColor": "transparent"
+              }
+            }
+          }
+        }
+      }
+    },
+    "Input": {
+      "appearances": {
+        "default": {
+          "variantGroups": {
+            "status": {
+              "basic": {
+                "backgroundColor": "transparent"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
